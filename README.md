@@ -8,5 +8,5 @@
 </p>
 
 # 🍥💬
-<img height=40px src="https://skillicons.dev/icons?i=swift,java,kotlin,html,css,js,ts,jquery,nodejs,vuejs,nuxtjs,maven,gradle&theme=light">
-<img height=40px src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,eclipse,vim,linux,aws,firebase,postgres,git,xd,figma&theme=light">
+<img height=20px src="https://skillicons.dev/icons?i=swift,java,kotlin,html,css,js,ts,jquery,nodejs,vuejs,nuxtjs,maven,gradle&theme=light">
+<img height=20px src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,eclipse,vim,linux,aws,firebase,postgres,git,xd,figma&theme=light">
