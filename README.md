@@ -3,10 +3,10 @@
   <img src="https://komarev.com/ghpvc/?username=kuskyst&color=ff69b4">
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuskyst&&theme=radical&bg_color=ffe0ff&text_color=ffffff&layout=donut">
-  <img src="https://github-profile-trophy.vercel.app/?username=kuskyst&column=2&row=2">
+  <img height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuskyst&&theme=radical&bg_color=ffe0ff&text_color=ffffff&layout=donut">
+  <img height=200px src="https://github-profile-trophy.vercel.app/?username=kuskyst&column=2&row=2">
 </p>
 
 # 🍥💬
-<img src="https://skillicons.dev/icons?i=swift,java,kotlin,html,css,js,ts,jquery,nodejs,vuejs,nuxtjs,maven,gradle&theme=light">
-<img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,eclipse,vim,linux,aws,firebase,postgres,git,xd,figma&theme=light">
+<img height=40px src="https://skillicons.dev/icons?i=swift,java,kotlin,html,css,js,ts,jquery,nodejs,vuejs,nuxtjs,maven,gradle&theme=light">
+<img height=40px src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,eclipse,vim,linux,aws,firebase,postgres,git,xd,figma&theme=light">
