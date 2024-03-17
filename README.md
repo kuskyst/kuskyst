@@ -1,6 +1,5 @@
 ## 🍥💬
 <p>
-  <img src="https://img.shields.io/github/last-commit/kuskyst/kuskyst?color=ff69b4&logo=github&style=flat">
   <img src="https://komarev.com/ghpvc/?username=kuskyst&color=ff69b4">
 </p>
 <p>
